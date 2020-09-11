@@ -1,4 +1,4 @@
-Netflix clone developed in React, using [https://www.themoviedb.org/documentation/api](TMDB) api.
+Netflix clone developed in React, using [TMDB](https://www.themoviedb.org/documentation/api) api.
 
 Check out full deployed clone at https://netflix-clone-4e8d0.firebaseapp.com/
 ## Available Scripts
