@@ -4,6 +4,9 @@ Check out full deployed clone at https://netflix-clone-4e8d0.firebaseapp.com/
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm install`
+
+Installs all the dependencies required to run the app.<br />
 
 ### `npm start`
 
