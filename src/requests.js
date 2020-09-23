@@ -9,7 +9,11 @@ const requests = {
     fetchDocumentaries: `/discover/movie?api_key=${API_KEY}&with_genres=99`,
     fetchAnime: `/discover/movie?api_key=${API_KEY}&with_genres=16`,
     fetchFantasy: `/discover/movie?api_key=${API_KEY}&with_genres=14`,
-    fetchNetflixOriginals: `discover/tv?api_key=${API_KEY}&sort_by=popularity.desc&with_networks=213`,
+    fetchNetflixOriginals: `/discover/movie?api_key=${API_KEY}`,
+    // fetchNetflixOriginals: `discover/tv?api_key=${API_KEY}&sort_by=popularity.desc&with_networks=213`,
+    fetchVideo : (videoId) => {
+
+    }
   };
   
   export default requests;
